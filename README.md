@@ -1,2 +1,5 @@
 # ReadingRocket
-The project is a wiki where I put the reading notes on Rocket
+阅读Rocket源码的笔记
+重点关注：
+1）Chisel语言的硬件描述能力
+2）Rocket核心流水线微结构
