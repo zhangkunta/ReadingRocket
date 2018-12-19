@@ -8,4 +8,4 @@
 2）Rocket核心流水线微结构
 
 请从这里开始：
-https://github.com/zhangkunta/ReadingRocket/wiki
+https://github.com/zhangkunta/ReadingRocket/issues
